@@ -1,0 +1,101 @@
+---
+tags:
+  - Character/NPC
+draft: true
+---
+%% Begin Waypoint %%
+- **[[Allies]]**
+- **[[Enemies]]**
+- **Neutrals**
+	- **[[Adventuring Guild]]**
+	- [[Arastoo]]
+	- **Archaeological Society**
+		- [[Garfexis]]
+	- **Archdevils**
+		- [[Archduchess Jouss]]
+		- [[Archduchess Safriel]]
+		- [[Archduke Mabezion]]
+	- **Archfey**
+		- [[Proka]]
+		- [[Sciath]]
+		- [[Solfrid Eliasen]]
+		- [[Tressa, The Spring-Queen]]
+	- [[Arzhang]]
+	- [[Avenessa Lyonne]]
+	- [[Chione]]
+	- **Devils**
+		- [[Duchess Mara]]
+		- [[Garfexis]]
+	- [[Diana]]
+	- **Divine Forces**
+		- **Angelic Host**
+			- [[Raphael]]
+		- [[Asfanfud]]
+		- **Aviari Gods**
+			- [[Ailmont]]
+			- [[Dorria]]
+			- [[Ittos]]
+			- [[Kincala]]
+			- [[Saint Davum]]
+			- [[Touyleln]]
+			- [[Zulin]]
+		- [[Corsair]]
+		- **Greek Pantheon**
+			- [[Apollyon]]
+			- [[Phosporos]]
+		- **Minor Deities and Spirits**
+			- **Americanist Cults**
+				- [[Lady Liberty]]
+		- [[Mithra]]
+		- [[Moncegamo]]
+		- **Persian Pantheon**
+			- [[Anahita]]
+		- **Swazehen Gods**
+			- [[Caeph]]
+			- [[Cryen]]
+			- [[Dyro]]
+			- [[Flesh]]
+			- [[Floath]]
+			- [[Jea]]
+			- [[Jethi]]
+			- [[K'r]]
+			- [[Oramualan]]
+			- [[Pitan]]
+			- [[Scanli]]
+			- [[Toazine]]
+			- [[Vack]]
+		- [[The Boundary]]
+		- **The Fates**
+			- [[Decima]]
+		- **The Giants**
+			- [[Ineruales]]
+			- [[Mio]]
+			- [[Stig Adzah]]
+			- [[Throt]]
+			- [[Treatrel]]
+		- **Vedalken Gods**
+			- [[Aberkai Lug]]
+			- [[Daeryli]]
+			- [[Damix]]
+			- [[Dresli]]
+			- [[Eloacholum]]
+			- [[Isissioc]]
+			- [[Kaian]]
+			- [[Mandael]]
+	- **[[Dragons]]**
+	- [[Fairborne]]
+	- [[Farah]]
+	- [[Mani Mavandi]]
+	- [[Marzieh Nazeri]]
+	- [[Mehrad]]
+	- [[Preacher]]
+	- [[Sattar Sehat]]
+	- [[Shah Cario Fezal II]]
+	- **[[The Devil]]**
+		- [[Lucifer of Rome]]
+		- [[Lucifer]]
+	- [[The Song Machine]]
+	- [[Voice of the Empire]]
+	- [[Yussef]]
+
+%% End Waypoint %%
