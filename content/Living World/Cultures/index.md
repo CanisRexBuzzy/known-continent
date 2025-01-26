@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Cultural Overview
+title: Cultures
 ---
 The cultures of the Known Continent are as vast and wonderful as their gods above. This isn't an exhaustive list, as anthropological and historical studies are changing with a frequency, with new discoveries and schools of thought moving towards separating out even these 'macro' ideas of culture.
 
